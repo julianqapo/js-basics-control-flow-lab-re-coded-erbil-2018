@@ -5,7 +5,6 @@ function scuberGreetingForFeet(){
 
 
 
-function ternaryCheckCity()(city) {
-  return (city ? "Ok, sounds good." : "No go.");
-console.log(ternaryCheckCity(city));
+function ternaryCheckCity(city) {
+  console.log (city ? "Ok, sounds good." : "No go.");
 }
