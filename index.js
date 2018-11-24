@@ -1,10 +1,11 @@
 // Write your code in this file!
 function scuberGreetingForFeet(){
-  
+
 }
 
 
 
-function ternaryCheckCity(city) {
-  console.log (city ? "Ok, sounds good." : "No go.");
+function ternaryCheckCity(Nyc) {
+  console.log(Nyc ? "Ok, sounds good." : "No go.");
+  
 }
